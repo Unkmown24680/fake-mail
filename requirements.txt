@@ -7,4 +7,4 @@ wget
 lxml
 pykeyboard
 beautifulsoup4
-random-word 
+Random-Word-Generator
