@@ -1,10 +1,10 @@
 pyrogram==1.4.16
-TgCrypto==1.2.2  # Example version, adjust based on compatibility
-pymongo[srv]==3.12.0  # Example version
+TgCrypto
+pymongo[srv]
 motor==3.0.0
-requests==2.25.1  # Example version
-wget==3.2  # Example version
-lxml==4.6.3  # Example version
-pykeyboard==0.1.0  # Example version, ensure this is the correct package as it might not be what you intended
-beautifulsoup4==4.9.3  # Example version
-Random-Word-Generator==0.1.5  # Ensure this package exists or is correctly named, it might be `random-word` instead
+requests
+wget
+lxml
+pykeyboard
+beautifulsoup4
+random-word 
